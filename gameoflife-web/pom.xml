@@ -172,7 +172,6 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.6.1</version>
         </dependency>
-   <dependency>
     <dependency>
     <groupId> org.apache.cassandra</groupId>
     <artifactId>cassandra-all</artifactId>
@@ -190,6 +189,5 @@
     </exclusions> 
 
       </dependency>
-         </dependency>
     </dependencies>
 </project>
