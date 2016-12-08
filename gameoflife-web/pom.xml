@@ -156,22 +156,22 @@
             <artifactId>mockito-all</artifactId>
             <version>1.8.5</version>
             <scope>test</scope>
-        </dependency>
+       </dependency>
         <dependency>
             <groupId>org.easytesting</groupId>
             <artifactId>fest-assert</artifactId>
             <version>1.4</version>
         </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>1.6.1</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.6.1</version>
-        </dependency>
+//        <dependency>
+//            <groupId>org.slf4j</groupId>
+//            <artifactId>slf4j-simple</artifactId>
+//            <version>1.6.1</version>
+//        </dependency>
+//        <dependency>
+//            <groupId>org.slf4j</groupId>
+//            <artifactId>slf4j-api</artifactId>
+//            <version>1.6.1</version>
+//        </dependency>
     <dependency>
     <groupId> org.apache.cassandra</groupId>
     <artifactId>cassandra-all</artifactId>
